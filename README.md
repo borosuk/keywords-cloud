@@ -1,6 +1,7 @@
 # keywords-cloud
-Create a cloud of keywords for a few programming languages
+Create a cloud of keywords for a few programming languages, with optional highlights to specific keywords
 
+![Alt text](/sample_output.png?raw=true "Sample Output")
 
 ## Requirements
 
