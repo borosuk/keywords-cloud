@@ -6,6 +6,8 @@ Create a cloud of keywords for a few programming languages, with optional highli
 ## Requirements
 
 - [Wordcloud](https://github.com/amueller/word_cloud): `pip install wordcloud`
+- [Beautiful Soup](https://pypi.org/project/beautifulsoup4/): `pip install beautifulsoup4`
+  - used for HTML parsing
 
 #### Installation notes
 
